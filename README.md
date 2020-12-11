@@ -13,6 +13,6 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-py app.py view-status --nodes=192.168.1.90-100
-py app.py ip-scan --nodes=192.168.1.90-100
+python app.py view-status --nodes=192.168.1.90-100
+python app.py ip-scan --nodes=192.168.1.90-100
 ```
